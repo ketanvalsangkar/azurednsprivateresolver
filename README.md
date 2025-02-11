@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/5025f64f-5d2b-4425-ad81-b033e41631a3)
+![image](https://github.com/user-attachments/assets/016aba77-5273-4db9-a208-b13fea91297e)
+
 
 Azure DNS Private Resolver detailed documentation with easy understanding workflow design
 
